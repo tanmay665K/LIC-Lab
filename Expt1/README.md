@@ -4,4 +4,4 @@ The Common Source (CS) configuration is a type of MOSFET configuration that is w
 
 In this experiment, we have simulated a CS amplifier configuration, without a source resistance Rₛ , and performed various analysis using the LTSpice tool, a popular tool for designing, analyzing a circuit’s performance. We have made use of the TSMC 180 nm SPICE library (.lib) file to set the parameters of our N-channel MOSFET (NMOS).
 
-![Uploading image.png…]()
+
