@@ -118,7 +118,7 @@ V<sub>SD</sub> \> V<sub>SG</sub> + V<sub>tp</sub>, **V<sub>tp</sub> =
 We can calculate the power dissipated by the NMOS, by multiplying
 I<sub>D</sub> by V<sub>D</sub>,
 
-**P = I<sub>D</sub> x V<sub>D</sub> = 27.735 µA x 1.46221 V = 40.6099
+**P = I<sub>D</sub> x V<sub>D</sub> = 27.735 µA x 1.8 V = 49.923
 µW**
 
 To perform this analysis, we go to the Run icon on the LTSpice toolbar,
