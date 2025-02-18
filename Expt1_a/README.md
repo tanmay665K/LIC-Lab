@@ -136,6 +136,7 @@ voltage will change.
 The MOSFET drain current equation in saturation is given by -
 $`i_{D} = \frac{1}{2}k_{n}v_{ov}^{2}`$
 
+
 Where, kₙ = µₙCₒₓ(W/L), is the MOSFET transconductance parameter,
 
 V<sub>OV =</sub> V<sub>GS</sub> - V<sub>t</sub> is known as the
