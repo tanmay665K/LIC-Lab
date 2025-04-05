@@ -184,9 +184,6 @@ style="width:6.26806in;height:5.47569in" />
 
 **Gain = 37.87023 dB, 3 dB BW = 122.329 MHz**
 
-**  
-**
-
 **ii. Circuit 2: Ratio of 1:2 using L = 500 nm**
 
 For CMOSN (M3), **W = 85.243 µm, L = 500 nm**
@@ -207,18 +204,12 @@ style="width:6.26806in;height:5.53125in" />
 
 Gain (V/V) = **-62.063 V/V = 35.855 dB**
 
-**  
-**
-
 **AC Analysis –**
 
 <img src="./media/image19.png"
 style="width:6.26806in;height:5.52153in" />
 
 **3 dB BW = 93.0732 MHz, Gain (dB) = 38.015 dB**
-
-**  
-**
 
 **ii. Analysis using L = 1 µm**
 
@@ -252,9 +243,6 @@ style="width:5.04167in;height:4.4021in" />
 
 **3 dB BW = 98.90171 MHz, Gain (dB) = 35.481 dB**
 
-**  
-**
-
 **ii. Analysis using L = 1 µm**
 
 1.  **Ratio of 1:1**
@@ -284,9 +272,6 @@ style="width:6.26806in;height:5.58056in" />
 style="width:6.26806in;height:5.53889in" />
 
 **3 dB BW = 57.2524 MHz, Gain (dB) = 38.69341 dB**
-
-**  
-**
 
 **Table of Comparisons**
 
@@ -354,14 +339,6 @@ common input, the amplifier will reject the signal and provides very
 little to no gain (ideally).
 
 A<sub>v</sub> = (1.092 – 0.95)/ (-10 mV) = **-14.2 V/V = 23.045 dB**
-
-**  
-**
-
-**AC Analysis**
-
-<img src="./media/image30.png"
-style="width:6.26806in;height:5.54444in" />
 
 **Results and Inferences**
 
