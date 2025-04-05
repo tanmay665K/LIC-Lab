@@ -342,12 +342,6 @@ little to no gain (ideally).
 
 A<sub>v</sub> = (1.092 – 0.95)/ (-10 mV) = **-14.2 V/V = 23.045 dB**
 
-
-**AC Analysis**
-
-<img src="./media/image30.png"
-style="width:6.26806in;height:5.54444in" />
-
 **Results and Inferences**
 
 The experiment demonstrates several important characteristics of current
